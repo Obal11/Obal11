@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Obal D Almeida<br><br>💻 Aspiring Software Developer | MERN Stack & Java<br>🌱 Always learning, building, and improving — one project at a time.<br>🎯 I focus on writing clean, understandable code and building things that actually solve problems.<br>🚀 Currently exploring front-end depth (CSS, JS, animations), backend systems, and full-stack architectures.<br><br>✨ A little about me<br>🧠 Love understanding how things actually work, not just copying code.<br>🧩 Enjoy solving problems and debugging<br>🙌 Humble learner — I pick things up fast and keep improving<br>🎓 MCA Graduate<br>🏙️ From Mysore, India<br>📚 Believe in “learning by building”
+👋 Hey, I'm Obal D Almeida<br><br>💻 Aspiring Software Developer | MERN Stack & Java<br>🌱 Always learning, building, and improving — one project at a time.<br>🎯 I focus on writing clean, understandable code and building things that actually solve problems.<br>🚀 Currently exploring front-end depth (CSS, JS, animations), backend systems, and full-stack architectures.<br><br>✨ A little about me<br>🧠 Love understanding how things actually work, not just copying code.<br>🧩 Enjoy solving problems and debugging<br>🎓 MCA Graduate<br>🏙️ From Mysore, India<br>📚 Believe in “learning by building”
 
 
 ## 🌐 Socials:
